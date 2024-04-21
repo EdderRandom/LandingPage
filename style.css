@@ -1,0 +1,37 @@
+        .titulo{
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 20px;
+            color: rgb(44, 11, 11);
+            font-weight: bold;
+            text-align: center;
+            margin-top: 2px;
+            padding-top: 10%;
+            border-top: 5%;
+        }
+        
+
+        .titulosgatos{
+            padding: 10px;
+            text-align: center;
+            border: 2px solid rgb(44, 11, 11);
+            border-radius: 20px;
+            color: rgb(44, 11, 11);
+        }
+
+
+        .formulario{
+            padding: 10px;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 20px;
+            color: rgb(44, 11, 11);
+            font-weight: bold;
+            text-align: center;
+            margin-top: 2px;
+        }
+        
+
+        .patitas{
+            background-image:url(https://dbdzm869oupei.cloudfront.net/img/mantels/preview/49318.png);
+            background-color: rgb(71, 18, 18);
+            background-position: center center;
+            }
